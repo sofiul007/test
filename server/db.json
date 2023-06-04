@@ -1,0 +1,229 @@
+{
+  "users": [
+    {
+      "email": "mosnur@gmail.com",
+      "password": "$2a$10$OY2RuGrJwaj61ilYkfiCUOv.yTusBNCFm/gnjXfwPZjjrS463Xfrm",
+      "name": "Mosnur",
+      "id": 1
+    },
+    {
+      "email": "kdh@gmail.com",
+      "password": "$2a$10$iPXQWBOiQT9Z2GuxyVleIeeqzvKKgehMpcnfpEt/xn/u.xlu5wgTK",
+      "name": "sdfgsf",
+      "id": 2
+    },
+    {
+      "email": "test1@gmail.com",
+      "password": "$2a$10$m3MXt2aZF0OKXvh5EpY46.niOsJjfaIezMymS46HiQwpwx10ioWi2",
+      "name": "test1",
+      "id": 3
+    },
+    {
+      "email": "test2@gmail.com",
+      "password": "$2a$10$ErnFcgCfaO7aoxZsv1lklOXP10SihxuR/NSZXeFXytlRWUxMm0KRO",
+      "name": "test2",
+      "id": 4
+    },
+    {
+      "email": "sorna@gmail.com",
+      "password": "$2a$10$SsaMj.mwAqIcaU0mvKQ/GeT6iPUlzj2vqPuIaq6YOesRgxtxdoe16",
+      "name": "Sona",
+      "id": 5
+    },
+    {
+      "email": "test5@gmail.com",
+      "password": "$2a$10$P20bT81P.5j6PFnuRjUipuncaUiEMy6wxdIKywZFJn.lUQoRBcTL.",
+      "name": "Test5",
+      "id": 6
+    }
+  ],
+  "blogs": [
+    {
+      "title": "Cox's Bazazar",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357_1280.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 2
+    },
+    {
+      "title": "Cox's Bazazar",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357_1280.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 3
+    },
+    {
+      "title": "Cox's Bazazar",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357_1280.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 4
+    },
+    {
+      "title": "Cox's Bazazar",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357_1280.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 5
+    },
+    {
+      "title": "Cox's Bazazar",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357_1280.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 6
+    },
+    {
+      "title": "Cox's Bazazar",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of \"de Finibus Bonorum et Malorum\" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, \"Lorem ipsum dolor sit amet..\", comes from a line in section 1.10.32.",
+      "thumbnail": "https://cdn.pixabay.com/photo/2018/03/20/14/00/sea-3243357_1280.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 7
+    },
+    {
+      "title": "SYLET",
+      "description": "hdflasfsadflsadjflsajfsdfsf",
+      "thumbnail": "https://live.staticflickr.com/7470/15466080400_76474738a2_b.jpg",
+      "date": "24/05/2023",
+      "author": {
+        "email": "test1@gmail.com",
+        "name": "test1",
+        "id": 3
+      },
+      "id": 8
+    }
+  ],
+  "booking": [
+    {
+      "name": "SYLHET",
+      "packageId": 1,
+      "traveler": {
+        "email": "mosnur@gmail.com",
+        "name": "Mosnur",
+        "id": 1
+      },
+      "paymentStatus": true,
+      "group": false,
+      "route": "Dhaka Borishal Kuakata",
+      "id": 1
+    },
+    {
+      "name": "Kuakata",
+      "packageId": 2,
+      "traveler": {
+        "email": "mosnur@gmail.com",
+        "name": "Mosnur",
+        "id": 1
+      },
+      "paymentStatus": true,
+      "group": true,
+      "route": "Dhaka Borishal Kuakata",
+      "id": 2
+    }
+  ],
+  "packages": [
+    {
+      "name": "SYLHET",
+      "description": "Lorem ipsum dolor sit amet This is Photoshop’s version of Lorem Ipsn gravida. Ing business like this takes much more effort than doing your own.",
+      "thumbnail": "https://images.unsplash.com/photo-1599137248983-e6061c27ec80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3lsaGV0JTJDJTIwYmFuZ2xhZGVzaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "price": "1500",
+      "route": "Dhaka Borishal Kuakata",
+      "duration": "2023-05-27",
+      "totalBus": "4",
+      "seatPerBUs": "25",
+      "totalPassenger": "100",
+      "id": 1
+    },
+    {
+      "name": "Kuakata",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "thumbnail": "https://images6.fanpop.com/image/photos/41700000/Kuakata-Bangladesh-bangladesh-41724851-1280-720.jpg",
+      "price": "1600",
+      "duration": "2023-05-22",
+      "totalBus": "4",
+      "seatPerBus": "25",
+      "totalPassenger": "96",
+      "route": "Dhaka Borishal Kuakata",
+      "id": 2
+    },
+    {
+      "name": "Rangamati",
+      "description": "dhslfjksdfjsakdfsadfasdf",
+      "thumbnail": "https://www.thegolfhousebd.com/wp-content/uploads/2021/12/222222.png",
+      "price": "1200",
+      "route": "Dhaka Borishal",
+      "duration": "2023-05-26",
+      "totalBus": "4",
+      "seatPerBUs": "25",
+      "id": 3
+    },
+    {
+      "name": "Kuakata",
+      "description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.",
+      "thumbnail": "https://images6.fanpop.com/image/photos/41700000/Kuakata-Bangladesh-bangladesh-41724851-1280-720.jpg",
+      "price": "1600",
+      "duration": "2023-05-22",
+      "totalBus": "4",
+      "seatPerBus": "25",
+      "totalPassenger": "96",
+      "route": "Dhaka Borishal Kuakata",
+      "id": 4
+    },
+    {
+      "name": "SYLHET",
+      "description": "Lorem ipsum dolor sit amet This is Photoshop’s version of Lorem Ipsn gravida. Ing business like this takes much more effort than doing your own.",
+      "thumbnail": "https://images.unsplash.com/photo-1599137248983-e6061c27ec80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3lsaGV0JTJDJTIwYmFuZ2xhZGVzaHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+      "price": "1500",
+      "route": [
+        "Dhaka",
+        "Chitagong"
+      ],
+      "duration": "2023-05-27",
+      "totalBus": "4",
+      "seatPerBUs": "25",
+      "totalPassenger": "100",
+      "id": 5
+    },
+    {
+      "name": "Rangamati",
+      "description": "dhslfjksdfjsakdfsadfasdf",
+      "thumbnail": "https://www.thegolfhousebd.com/wp-content/uploads/2021/12/222222.png",
+      "price": "1200",
+      "route": "Dhaka Borishal",
+      "duration": "2023-05-26",
+      "totalBus": "4",
+      "seatPerBUs": "25",
+      "id": 3
+    }
+  ]
+}
